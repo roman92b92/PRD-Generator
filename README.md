@@ -138,3 +138,17 @@ prd-generator/
 ## License
 
 MIT
+
+---
+
+## ⚠️ Disclaimer
+
+**Use at your own risk.**
+
+This tool uses your personal Anthropic API key to call the Claude API. **Every PRD you generate consumes tokens and incurs real charges on your Anthropic account.** Token usage is not fixed — it scales with the length and detail of your product description, the template selected, and any images you upload.
+
+The author of this project is **not responsible** for any API costs you incur while using this tool. Before running, make sure you:
+
+- Understand [Anthropic's pricing](https://www.anthropic.com/pricing)
+- Set usage limits on your account at [console.anthropic.com](https://console.anthropic.com)
+- Keep your API key private and never commit it to version control
