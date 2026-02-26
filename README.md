@@ -54,7 +54,7 @@ Open [http://localhost:5000](http://localhost:5000) in your browser.
 
 ## Configuration
 
-`config.json` (gitignored — never commit this):
+`config.json` :
 
 ```json
 {
